@@ -23,8 +23,8 @@
 - **Languages and Scripting:** 
   - <img src="https://icons.iconarchive.com/icons/tatice/cristal-intense/16/Java-icon.png" width="16" height="16"> Java for larger projects
   - <img src="https://icons.iconarchive.com/icons/cornmanthe3rd/plex/16/Other-python-icon.png" width="16" height="16"> Python for automation and creating CLIs
-  - <img src="https://icons.iconarchive.com/icons/froyoshark/enkel/16/iTerm-icon.png" width="16" height="16"> Bash Script for automation
-  - C
+  - ![Bash Scripting](https://img.shields.io/badge/-Bash_Scripting-000000?style=flat&logo=gnubash) Bash Script for automation
+  - ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)
 - **📜 IDE**
   - <img src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/16/nvim-icon.png" width="16" height="16"> NeoVim
   - <img src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/16/intellij-icon.png" width="16" height="16"> Intellij
@@ -36,9 +36,8 @@
   - <img src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/16/mysql-workbench-icon.png" width="16" height="16"> MySQL
 - **🛠️ Tools:** 
   - <img src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/16/git-icon.png" width="16" height="16"> Git
- ### 🌱 Currently Learning
- - In-Depth Java
- - Learning to use Spring boot framework in Java
+
+  
  ### 🎨 Hobbies
  - I am a 🎹Pianist
  - I draw manga panels from my favourite mangas
