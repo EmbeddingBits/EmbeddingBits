@@ -52,10 +52,7 @@
 - 📬 Mail: tspamiitesh@gmail.com
 
 # 👨‍💻 Socials and Profiles
-[![LinkedIn](linkedin.svg)](https://www.linkedin.com/in/amiitesh-pradeep-kumar-582bb831a/)
-[![Instagram](instagram.png)](https://www.instagram.com/tspamiitesh/)
-[![HackerRank](hackerrank1.png)](https://www.hackerrank.com/profile/tspamiitesh)
-
+[<img src="https://icons.iconarchive.com/icons/limav/flat-gradient-social/32/Linkedin-icon.png" width="32" height="32">](https://www.linkedin.com/in/amiitesh-pradeep-kumar-582bb831a/)
 
 # My Top Programming Languages
 
