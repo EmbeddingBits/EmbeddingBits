@@ -21,10 +21,10 @@
   - <img src="https://icons.iconarchive.com/icons/fatcow/farm-fresh/16/arch-linux-icon.png" width="16" height="16"> Arch Linux
   - <img src="https://icons.iconarchive.com/icons/martz90/circle/16/ubuntu-icon.png" width="16" height="16"> Ubuntu
 - **Languages and Scripting:** 
-  - <img src="https://icons.iconarchive.com/icons/tatice/cristal-intense/16/Java-icon.png" width="16" height="16"> Java for larger projects
+  - ![C for Cybersecurity](https://img.shields.io/badge/-C-000000?style=flat&logo=c)
   - <img src="https://icons.iconarchive.com/icons/cornmanthe3rd/plex/16/Other-python-icon.png" width="16" height="16"> Python for automation and creating CLIs
   - ![Bash Scripting](https://img.shields.io/badge/-Bash_Scripting-000000?style=flat&logo=gnubash) Bash Script for automation
-  - ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)
+  
 - **📜 IDE**
   - <img src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/16/nvim-icon.png" width="16" height="16"> NeoVim
   - <img src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/16/intellij-icon.png" width="16" height="16"> Intellij
@@ -46,7 +46,8 @@
 # 📚 What you'll learn from my GitHub
 - You will learn basic Linux terminal commands and how to enhance your terminal experience and terminal CLIs.
 - You'll learn mainly C/C++ and some python projects that are based on cybersecurity.
-
+# What I'm currently learning
+- Intel x86 assembly for cybersecurity for reverse engineering and binary exploitation
 # Contact
 - 📬 Mail: tspamiitesh@gmail.com
 
