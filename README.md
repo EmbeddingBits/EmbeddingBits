@@ -58,4 +58,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hash-cracker&theme=nord\&layout=compact)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hash-Cracker&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=nord)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hash-cracker&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=nord)
