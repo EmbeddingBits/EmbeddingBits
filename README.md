@@ -56,6 +56,6 @@
 
 # My Top Programming Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hAsh-cracker&theme=nord\&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haSh-cracker&theme=nord\&layout=compact)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hAsh-cracker&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=nord)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=haSh-cracker&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=nord)
