@@ -59,3 +59,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hash-Cracker&theme=nord\&layout=compact)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hash-Cracker&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=nord)
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hash-cracker&show_icons=true&locale=en&layout=compact" alt="hash-cracker" /></p>
