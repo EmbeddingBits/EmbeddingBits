@@ -60,7 +60,7 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hAsh-Cracker&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=nord)
 
-
+[![Hash-Cracker's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Hash-Cracker)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
