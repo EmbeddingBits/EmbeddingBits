@@ -56,11 +56,19 @@
 
 # My Top Programming Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hash-craCker&theme=nord\&layout=compact)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hash-craCker&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=nord)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Hash-cracker&show_icons=true&locale=en&layout=compact&theme=onedark" alt="hash-cracker" /></p>
 
-[![Hash-Cracker's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Hash-Cracker&theme=github)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Hash-cracker&show_icons=true&locale=en&theme=onedark" alt="hash-cracker" /></p>
+
+
+![Hash-Cracker's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Hash-Cracker&theme=github)
+
+
+
 
 
 
