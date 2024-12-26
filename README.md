@@ -60,12 +60,12 @@
 <p align="left">
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Hash-cracker&show_icons=true&locale=en&layout=compact&theme=onedark" alt="hash-cracker" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hash-cracker&show_icons=true&locale=en&layout=compact&theme=onedark" alt="hash-cracker" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Hash-cracker&show_icons=true&locale=en&theme=onedark" alt="hash-cracker" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hash-cracker&show_icons=true&locale=en&theme=onedark" alt="hash-cracker" /></p>
 
 
-![Hash-Cracker's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Hash-Cracker&theme=github)
+![Hash-Cracker's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Hash-cracker&theme=github)
 
 
 
