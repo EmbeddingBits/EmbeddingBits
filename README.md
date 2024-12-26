@@ -27,7 +27,6 @@
   
 - **📜 Editors**
   - <img src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/16/nvim-icon.png" width="16" height="16"> NeoVim
-  - <img src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/16/intellij-icon.png" width="16" height="16"> Intellij
   - <img src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/16/pycharm-icon.png" width="16" height="16"> PyCharm
   - <img src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/16/visual-studio-code-icon.png" width="16" height="16"> VSCode
 - **📄 Documentation**
