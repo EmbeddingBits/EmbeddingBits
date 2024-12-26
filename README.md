@@ -25,7 +25,7 @@
   - <img src="https://icons.iconarchive.com/icons/cornmanthe3rd/plex/16/Other-python-icon.png" width="16" height="16"> Python for automation and creating CLIs
   - ![Bash Scripting](https://img.shields.io/badge/-Bash_Scripting-000000?style=flat&logo=gnubash) Bash Script for automation
   
-- **📜 IDE**
+- **📜 Editors**
   - <img src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/16/nvim-icon.png" width="16" height="16"> NeoVim
   - <img src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/16/intellij-icon.png" width="16" height="16"> Intellij
   - <img src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/16/pycharm-icon.png" width="16" height="16"> PyCharm
