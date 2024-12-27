@@ -21,9 +21,9 @@
   - <img src="https://icons.iconarchive.com/icons/fatcow/farm-fresh/16/arch-linux-icon.png" width="16" height="16"> Arch Linux
   - <img src="https://icons.iconarchive.com/icons/martz90/circle/16/ubuntu-icon.png" width="16" height="16"> Ubuntu
 - **Languages and Scripting:** 
-  - ![C for Cybersecurity](https://img.shields.io/badge/-C-000000?style=flat&logo=c)
-  - <img src="https://icons.iconarchive.com/icons/cornmanthe3rd/plex/16/Other-python-icon.png" width="16" height="16"> Python for automation and creating CLIs
-  - ![Bash Scripting](https://img.shields.io/badge/-Bash_Scripting-000000?style=flat&logo=gnubash) Bash Script for automation
+  - ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)
+  - <img src="https://icons.iconarchive.com/icons/cornmanthe3rd/plex/16/Other-python-icon.png" width="16" height="16">
+  - ![Bash Scripting](https://img.shields.io/badge/-Bash_Scripting-000000?style=flat&logo=gnubash)
   
 - **📜 Editors**
   - <img src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/16/nvim-icon.png" width="16" height="16"> NeoVim
