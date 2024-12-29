@@ -59,19 +59,17 @@
 <p align="left">
 </p>
 
-<p><img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hash-Cracker&theme=nord_dark" alt="hash-cracker" /></p>
+![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hash-Cracker&theme=nord_dark)
 
-<p>&nbsp;<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hash-Cracker&theme=nord_dark" alt="hash-cracker" /></p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hash-Cracker&layout=compact&theme=nord)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hash-cracker&theme=nord" alt="hash-cracker" /></p>
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=hash-crackEr&theme=nord)
 
-![Hash-Cracker's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Hash-cracker&theme=github)
+![Hash-Cracker's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Hash-cracker&theme=nord)
 
 # GitHub Statistics
 
-<div align="center">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hash-Cracker&theme=nord_dark" alt="stats" />
-</div>
+![Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hash-Cracker&theme=nord_dark)
 
 
 
