@@ -63,7 +63,7 @@
 
 <p>&nbsp;<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hash-Cracker&theme=nord_dark" alt="hash-cracker" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hash-cracker&theme=onedark" alt="hash-cracker" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hash-cracker&theme=nord" alt="hash-cracker" /></p>
 
 ![Hash-Cracker's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Hash-cracker&theme=github)
 
