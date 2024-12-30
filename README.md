@@ -9,6 +9,7 @@
 - Hey people, I'm **Amiitesh** and I'm currently a student at **VIT Chennai**.
 - I look forward to continue my career focused towards C/C++ and cybersecurity
 - I'm a very ardent <img src="https://icons.iconarchive.com/icons/tatice/operating-systems/16/Linux-icon.png" width="16" height="16"> **Linux** user and have been using them since the day I started using computers and I seriously look forward to contribute big to **Open Source**.
+- [Checkout my portfolio](hash-cracker.github.io)
 
 <h3 align="left"> Interests</h3>
 
