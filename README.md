@@ -15,28 +15,26 @@
 
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=CaskaydiaMono&size=31&duration=3000&pause=200&color=88C0D0&width=435&lines=Linux;Cybersecurity;Computer+Networks;Open+Source+Technology" alt="Typing SVG" /></a>
-# 🌟 Interests
+# Tech Stack
 
-### 💻 Programming
-- **🖥️ OS**
-  - <img src="https://icons.iconarchive.com/icons/fatcow/farm-fresh/16/arch-linux-icon.png" width="16" height="16"> Arch Linux
-  - <img src="https://icons.iconarchive.com/icons/martz90/circle/16/ubuntu-icon.png" width="16" height="16"> Ubuntu
-- **Languages and Scripting:** 
-  - ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)
-  - <img src="https://icons.iconarchive.com/icons/cornmanthe3rd/plex/16/Other-python-icon.png" width="16" height="16">
-  - ![Bash Scripting](https://img.shields.io/badge/-Bash_Scripting-000000?style=flat&logo=gnubash)
-  
-- **📜 Editors**
-  - <img src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/16/nvim-icon.png" width="16" height="16"> NeoVim
-  - <img src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/16/pycharm-icon.png" width="16" height="16"> PyCharm
-  - <img src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/16/visual-studio-code-icon.png" width="16" height="16"> VSCode
-- **📄 Documentation**
-  - <img src="https://icons.iconarchive.com/icons/papirus-team/papirus-mimetypes/16/text-x-markdown-icon.png" width="16" height="16"> Markdown
-- **🗄️ Databases:** 
-  - <img src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/16/mysql-workbench-icon.png" width="16" height="16"> MySQL
-- **🛠️ Tools:** 
-  - <img src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/16/git-icon.png" width="16" height="16"> Git
+## Languages: 
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c++&logoColor=white)
+![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white) 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![CSS](https://img.shields.io/badge/verilog-%231572B6.svg?style=for-the-badge&logo=verilog&logoColor=white)
 
+## Developer Tools:
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+## Libraries/Frameworks:
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
+![ReactJS](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
   
  ### 🎨 Hobbies
  - I am a 🎹Pianist
