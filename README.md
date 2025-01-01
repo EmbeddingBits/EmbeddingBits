@@ -74,7 +74,7 @@
 
 ![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=HasH-CraCker&theme=nord_dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HasH-CraCker&layout=compact&theme=nord)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HasH-CrACker&layout=compact&theme=nord)
 
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Hash-CraCker&theme=nord)
 
