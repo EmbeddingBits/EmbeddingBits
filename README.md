@@ -86,6 +86,9 @@
 
 ![Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hash-Cracker&theme=nord_dark)
 
+# New LeetCode Account
+![LeetCode](https://leetcard.jacoblin.cool/Hash-Cracker?theme=nord&font=CaskaydiaMono&ext=heatmap)
+
 
 
 
