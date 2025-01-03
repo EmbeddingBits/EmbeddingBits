@@ -59,7 +59,7 @@
 
 # 📚 What you'll learn from my GitHub
 - You will learn basic Linux terminal commands and how to enhance your terminal experience and terminal CLIs.
-- You'll learn mainly C/C++ and some python projects that are based on cybersecurity.
+- You'll learn mainly C/C++ and some Go projects that are based on cybersecurity.
 # What I'm currently learning
 - Intel x86 assembly for cybersecurity for reverse engineering and binary exploitation
 # Contact
