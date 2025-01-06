@@ -75,11 +75,8 @@
 <p align="left">
 </p>
 
-![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hash-CRacker&theme=nord_dark)
+![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hash-CRacker&theme=nord_dark)   ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Hash-Cracker&theme=nord&show_icons=true&layout=compact)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hash-CRacker&layout=compact&theme=nord)
-
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Hash-CRacker&theme=nord)
 
 ![Hash-Cracker's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Hash-CRacker&theme=nord)
 
