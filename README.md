@@ -89,7 +89,7 @@
 
 # CodeWars Account
 
-![Codewars](https://github.r2v.ch/codewars?user=Code_Smith&name=true&top_languages=true&stroke=%2388c0d0)
+![Codewars](https://github.r2v.ch/codewars?user=Hash-Cracker&name=true&top_languages=true&stroke=%2388c0d0)
 
 
 
