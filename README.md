@@ -84,9 +84,6 @@
 
 ![Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hash-CRacker&theme=nord_dark)
 
-# New LeetCode Account
-![LeetCode](https://leetcard.jacoblin.cool/Hash-Cracker?theme=nord&font=CaskaydiaMono&ext=heatmap)
-
 # CodeWars Account
 
 ![Codewars](https://github.r2v.ch/codewars?user=Hash-Cracker&name=true&top_languages=true&stroke=%2388c0d0)
