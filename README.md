@@ -82,7 +82,7 @@
 
 # GitHub Statistics
 
-![Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hash-CRacker&theme=nord_dark)
+![Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hash-Cracker&theme=nord_dark)
 
 # CodeWars Account
 
