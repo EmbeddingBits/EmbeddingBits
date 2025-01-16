@@ -75,18 +75,18 @@
 <p align="left">
 </p>
 
-![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hash-CRacker&theme=nord_dark)   ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Hash-Cracker&theme=nord&show_icons=true&layout=compact)
+![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=BitsExploited&theme=nord_dark)   ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=BitsExploited&theme=nord&show_icons=true&layout=compact)
 
 
-![Hash-Cracker's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Hash-CRacker&theme=nord)
+![Hash-Cracker's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=BitsExploited&theme=nord)
 
 # GitHub Statistics
 
-![Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hash-Cracker&theme=nord_dark)
+![Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BitsExploited&theme=nord_dark)
 
 # CodeWars Account
 
-![Codewars](https://github.r2v.ch/codewars?user=Hash-Cracker&name=true&top_languages=true&stroke=%2388c0d0)
+![Codewars](https://github.r2v.ch/codewars?user=BitsExploited&name=true&top_languages=true&stroke=%2388c0d0)
 
 
 
