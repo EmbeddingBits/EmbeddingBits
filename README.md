@@ -14,7 +14,7 @@
 <h3 align="left"> Interests</h3>
 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=CaskaydiaMono&size=31&duration=3000&pause=200&color=88C0D0&width=435&lines=Linux;Cybersecurity;Computer+Networks;Open+Source+Technology" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=CaskaydiaMono+Nerd+Font+Propo&size=31&duration=3000&pause=200&color=5e81ac&width=435&lines=Linux;Cybersecurity;Computer+Networks;Open+Source+Technology" alt="Typing SVG" /></a>
 # Tech Stack
 
 ## Operating Systems:
