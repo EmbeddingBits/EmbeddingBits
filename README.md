@@ -13,8 +13,8 @@
 - [Checkout my blog](https://bitsexploited.is-a.dev/blog)
 <h3 align="left"> Interests</h3>
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=CaskaydiaMono+Nerd+Font+Mono&size=30&duration=3000&pause=5&color=BF616A&width=435&lines=Linux;Network+Programming;Cybersecurity;Kernel+Programming" alt="Typing SVG" /></a>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=CaskaydiaMono+Nerd+Font+Propo&size=31&duration=3000&pause=200&color=5e81ac&width=435&lines=Linux;Cybersecurity;Computer+Networks;Open+Source+Technology" alt="Typing SVG" /></a>
 # Tech Stack
 
 ## Operating Systems:
