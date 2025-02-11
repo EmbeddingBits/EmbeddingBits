@@ -7,7 +7,7 @@
 
 ## 🚀 About Me
 - Hey people, I'm **Amiitesh** and I'm currently a student at **VIT Chennai**.
-- I look forward to continue my career focused towards C/C++ and cybersecurity
+- I look forward to continue my career focused towards C/C++, Networks and Kernel Developement.
 - I'm a very ardent <img src="https://icons.iconarchive.com/icons/tatice/operating-systems/16/Linux-icon.png" width="16" height="16"> **Linux** user and have been using them since the day I started using computers and I seriously look forward to contribute big to **Open Source**.
 - [Checkout my portfolio](https://bitsexploited.is-a.dev/)
 - [Checkout my blog](https://bitsexploited.is-a.dev/blog)
@@ -61,8 +61,7 @@
 # 📚 What you'll learn from my GitHub
 - You will learn basic Linux terminal commands and how to enhance your terminal experience and terminal CLIs.
 - You'll learn mainly C/C++ and some Go projects that are based on cybersecurity.
-# What I'm currently learning
-- Intel x86 assembly for cybersecurity for reverse engineering and binary exploitation
+
 # Contact
 - 📬 Mail: tspamiitesh@gmail.com
 
