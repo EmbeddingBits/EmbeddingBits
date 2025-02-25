@@ -74,7 +74,7 @@
 <p align="left">
 </p>
 
-![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=BitsExploited&theme=nord_dark)   ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=BitsExploited&theme=nord&show_icons=true&layout=compact)
+![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=BitsExploited&theme=nord_dark)   ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=BItsEXploited&theme=nord&show_icons=true&layout=compact)
 
 
 ![Hash-Cracker's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=BitsExploited&theme=nord)
