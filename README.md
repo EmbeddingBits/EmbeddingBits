@@ -79,14 +79,6 @@
 
 ![Hash-Cracker's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=BitsExploited&theme=nord)
 
-# GitHub Statistics
-
-![Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BitsExploited&theme=nord_dark)
-
-# CodeWars Account
-
-![Codewars](https://github.r2v.ch/codewars?user=BitsExploited&name=true&top_languages=true&stroke=%2388c0d0)
-
 
 
 
