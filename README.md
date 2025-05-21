@@ -21,7 +21,6 @@
 ![C](https://img.shields.io/badge/c-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=brown)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -33,9 +32,6 @@
   
 # Contact
 - 📬 Mail: tspamiitesh@gmail.com
-
-# 👨‍💻 Socials and Profiles
-[<img src="https://icons.iconarchive.com/icons/limav/flat-gradient-social/32/Linkedin-icon.png" width="32" height="32">](https://www.linkedin.com/in/amiitesh-pradeep-kumar-582bb831a/)
 
 # My Top Programming Languages
 
