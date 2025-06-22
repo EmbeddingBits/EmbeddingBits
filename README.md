@@ -22,6 +22,7 @@
 ![Apple](https://skillicons.dev/icons?i=apple)
 ![Debian](https://skillicons.dev/icons?i=debian)
 ![Ubuntu](https://skillicons.dev/icons?i=ubuntu)
+![NixOS](https://skillicons.dev/icons?i=nix)
 
 ## Languages: 
 ![Languages](https://skillicons.dev/icons?i=c,cpp,go,zig,py,java,javascript,bash,html,css,react,tailwind,mysql,mongodb)
