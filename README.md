@@ -41,7 +41,7 @@
 <p align="left">
 </p>
 
-![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=BitsExploited&theme=nord_dark)   ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=BItsEXploited&theme=nord&show_icons=true&layout=compact)
+![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=embeddingbits&theme=nord_dark)   ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=embeddingbits&theme=nord&show_icons=true&layout=compact)
 
 
 
