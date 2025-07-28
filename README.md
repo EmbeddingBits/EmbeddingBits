@@ -1,7 +1,4 @@
-<div align="center"> 
-  
-# 🌌 Welcome to My GitHub Universe! 
-</div>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Amiitesh-tsp&label=Profile%20views&color=0e75b6&style=flat" alt="Amiitesh-tsp" /> </p>
 
 
