@@ -6,20 +6,15 @@
 
 # Tech Stack
 ## Operating Systems
-![linux](https://skillicons.dev/icons?i=linux)
-![Arch](https://skillicons.dev/icons?i=arch)
-![Apple](https://skillicons.dev/icons?i=apple)
-![Debian](https://skillicons.dev/icons?i=debian)
-![Ubuntu](https://skillicons.dev/icons?i=ubuntu)
-![NixOS](https://skillicons.dev/icons?i=nix)
+![linux](https://skillicons.dev/icons?i=linux,arch,apple,debian,ubuntu,nix)
 
 ## Languages: 
-![Languages](https://skillicons.dev/icons?i=c,cpp,go,zig,py,java,javascript,bash,html,css,react,tailwind,mysql,mongodb)
+![Languages](https://skillicons.dev/icons?i=c,cpp,go,zig,py,java,javascript,bash,html,css,react,tailwind,mysql)
 ## Boards
 ![Boards](https://skillicons.dev/icons?i=raspberrypi,arduino)
 
 ## Tools
-![Tools](https://skillicons.dev/icons?i=git,github,gcp,docker,aws,obsidian,neovim,vim,vscode,emacs,autocad,cloudflare,notion)
+![Tools](https://skillicons.dev/icons?i=git,github,gcp,docker,aws,obsidian,neovim,vim,autocad,cloudflare)
 
 # Contact
 - 📬 Mail: tspamiitesh@gmail.com
