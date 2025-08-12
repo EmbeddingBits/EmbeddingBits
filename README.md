@@ -1,6 +1,6 @@
 ## About Me
 - A sophomore student at VIT Chennai.
-- I contribute to open source projects like Linux, Networks and Embedded Systems.
+- I like to contribute to open source projects in the fields like Networks and Embedded Systems
 - [Checkout my portfolio](https://embeddingbits.is-a.dev/)
 - [Checkout my blog](https://embeddingbits.is-a.dev/blog)
 
