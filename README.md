@@ -1,8 +1,9 @@
 ## About Me
 - A sophomore student at VIT Chennai.
+- I do Embedded Systems, Computer Networks, Kernel Development and a fair amount of Systems Programming.
 - I like to contribute to open source projects in the fields like Networks and Embedded Systems
-- [Checkout my portfolio](https://embeddingbits.is-a.dev/)
-- [Checkout my blog](https://embeddingbits.is-a.dev/blog)
+- Check my [portfolio](https://embeddingbits.is-a.dev/)
+- My [blog](https://embeddingbits.is-a.dev/blog)
 
 # Tech Stack
 ## Operating Systems
@@ -16,8 +17,6 @@
 ## Tools
 ![Tools](https://skillicons.dev/icons?i=git,github,gcp,docker,aws,obsidian,neovim,vim,autocad,cloudflare)
 
-# Contact
-- 📬 Mail: tspamiitesh@gmail.com
 
 # My Top Programming Languages
 
@@ -25,12 +24,11 @@
 <p align="left">
 </p>
 
-![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=embeddingbits&theme=nord_dark)   ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=embeddingbits&theme=nord&show_icons=true&layout=compact)
+![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=embeddingbits&theme=gruvbox)   ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=embeddingbits&theme=gruvbox&show_icons=true&layout=compact)
 
 
 
-
-
-
-
-
+# Contact
+- 📬 Mail: tspamiitesh@gmail.com
+- Discord: embedding_bits
+- [LinkedIn](https://www.linkedin.com/in/amiitesh-pradeep-kumar-582bb831a/)
