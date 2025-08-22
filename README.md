@@ -1,5 +1,5 @@
 ## About Me
-- A sophomore student at VIT Chennai.
+- A sophomore student 
 - I do Embedded Systems, Computer Networks, Kernel Development and a fair amount of Systems Programming.
 - I like to contribute to open source projects in the fields like Networks and Embedded Systems
 - Check my [portfolio](https://embeddingbits.is-a.dev/)
